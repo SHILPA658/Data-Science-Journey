@@ -31,3 +31,6 @@ print("Joined sentence:", " ".join(words))
 # Accessing characters
 print("First character:", text[0])
 print("Last character:", text[-1])
+
+# Finding the total number of characters in the string
+print("Length:", len(text))
